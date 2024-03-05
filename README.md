@@ -1,4 +1,4 @@
-bill-split
+split-wise
 Design
 Actors:
 
